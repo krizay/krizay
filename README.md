@@ -1,7 +1,7 @@
 # :purple_heart: **INTRODUCING MYSELF** :purple_heart: 
 
 
-Over the past year, I’ve been gradually learning data analytics while balancing my work in the insurance industry and continuing my studies. I’m passionate about uncovering insights and telling stories through data, especially in areas like music and pop culture, social issues, health, and insurance. My goal is to apply analytics to make complex information more accessible and engaging.
+Over the past year, I’ve been gradually learning data analytics while balancing my work as an analyst and continuing my studies. I’m passionate about uncovering insights and telling stories through data, especially in areas like music and pop culture, social issues, health, and insurance. My goal is to apply analytics to make complex information more accessible and engaging.
 
 <!--
 **krizay/krizay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
